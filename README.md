@@ -28,7 +28,6 @@ This project focuses on detecting vulnerabilities in blockchain-based smart cont
 ## Future Scope
 - Expanding detection to more vulnerability types.
 - Implementing real-time detection.
-- Exploring deep learning approaches.
 
 ## License
 This project is licensed under the **MIT License**.
